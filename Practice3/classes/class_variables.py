@@ -9,6 +9,7 @@ class Dictionary:
 
     def info(self):
         return f"Language: {self.language}, Country: {self.country}"
+
 d1 = Dictionary()
 d2 = Dictionary(language="Spanish", country="Spain")
 print(d1.info())
