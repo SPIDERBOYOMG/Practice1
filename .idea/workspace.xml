@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c0b19a-a2a8-4315-80a6-ff1e6dd74c3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice10/Paint/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice10/Paint/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice10/Snake/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice10/Snake/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice10/Snake/renderer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice10/Snake/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice10/Snake/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice11/Paint/paint_p8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice11/Racer/generate_assets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
     "Python.generate_assets.executor": "Run",
     "Python.hud.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.paint_p8.executor": "Run",
     "Python.settings.executor": "Run",
     "Python.sprites.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,7 +50,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "E:/Programming/Games/Practice10/Paint",
+    "last_opened_file_path": "E:/Programming/Games/Practice11/Paint",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +63,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\Games\Practice11\Paint" />
+      <recent name="E:\Programming\Games\Practice11\Racer" />
       <recent name="E:\Programming\Games\Practice10\Paint" />
       <recent name="E:\Programming\Games\Practice10\Snake" />
       <recent name="E:\Programming\Games\Practice10" />
@@ -117,7 +116,8 @@
       <workItem from="1776193787780" duration="3050000" />
       <workItem from="1776196912026" duration="855000" />
       <workItem from="1776676810350" duration="488000" />
-      <workItem from="1776677327521" duration="1847000" />
+      <workItem from="1776677327521" duration="2055000" />
+      <workItem from="1776815124937" duration="1491000" />
     </task>
     <servers />
   </component>
@@ -164,12 +164,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Games$main.coverage" NAME="main Coverage Results" MODIFIED="1776188215972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/generate_assets_py$main.coverage" NAME="main Coverage Results" MODIFIED="1776679176920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice10/Paint" />
-    <SUITE FILE_PATH="coverage/generate_assets_py$hud.coverage" NAME="hud Coverage Results" MODIFIED="1776677552505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice10" />
-    <SUITE FILE_PATH="coverage/generate_assets_py$generate_assets.coverage" NAME="generate_assets Coverage Results" MODIFIED="1776677535111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice10" />
-    <SUITE FILE_PATH="coverage/generate_assets_py$sprites.coverage" NAME="sprites Coverage Results" MODIFIED="1776677852672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice10" />
+    <SUITE FILE_PATH="coverage/generate_assets_py$main.coverage" NAME="main Coverage Results" MODIFIED="1776815805915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice11/Racer" />
+    <SUITE FILE_PATH="coverage/generate_assets_py$hud.coverage" NAME="hud Coverage Results" MODIFIED="1776815569749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice11/Racer" />
+    <SUITE FILE_PATH="coverage/generate_assets_py$generate_assets.coverage" NAME="generate_assets Coverage Results" MODIFIED="1776815795399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice11/Racer" />
+    <SUITE FILE_PATH="coverage/generate_assets_py$sprites.coverage" NAME="sprites Coverage Results" MODIFIED="1776815563447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice11/Racer" />
+    <SUITE FILE_PATH="coverage/generate_assets_py$paint_p8.coverage" NAME="paint_p8 Coverage Results" MODIFIED="1776816202095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice11/Paint" />
     <SUITE FILE_PATH="coverage/if_elif_else_py$main.coverage" NAME="main Coverage Results" MODIFIED="1776677294907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clock_py$main.coverage" NAME="main Coverage Results" MODIFIED="1776188349462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/generate_assets_py$settings.coverage" NAME="settings Coverage Results" MODIFIED="1776677542243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice10" />
+    <SUITE FILE_PATH="coverage/generate_assets_py$settings.coverage" NAME="settings Coverage Results" MODIFIED="1776815559813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice11/Racer" />
   </component>
 </project>
