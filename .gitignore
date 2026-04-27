@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+.Python
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Local database secrets
+TSIS/Snace/secrets.py
+TSIS/Phonebook/TSIS1/secrets.py
+
+# Optional local test files and system artifacts
+*.sqlite3
+*.db
+.DS_Store
