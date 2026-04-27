@@ -1,0 +1,72 @@
+[
+  {
+    "name": "fl",
+    "score": 845,
+    "distance": 44.8,
+    "coins": 3,
+    "difficulty": "easy"
+  },
+  {
+    "name": "f",
+    "score": 817,
+    "distance": 91.5,
+    "coins": 4,
+    "difficulty": "normal"
+  },
+  {
+    "name": "\u044b\u0432\u0430",
+    "score": 780,
+    "distance": 52.6,
+    "coins": 1,
+    "difficulty": "easy"
+  },
+  {
+    "name": "f",
+    "score": 739,
+    "distance": 73.1,
+    "coins": 2,
+    "difficulty": "normal"
+  },
+  {
+    "name": "\u0444\u0446\u0430\u0443\u0444\u0446\u0443\u0430",
+    "score": 269,
+    "distance": 19.9,
+    "coins": 0,
+    "difficulty": "easy"
+  },
+  {
+    "name": "fff",
+    "score": 236,
+    "distance": 23.2,
+    "coins": 0,
+    "difficulty": "easy"
+  },
+  {
+    "name": "fk",
+    "score": 228,
+    "distance": 20.3,
+    "coins": 1,
+    "difficulty": "easy"
+  },
+  {
+    "name": "f",
+    "score": 199,
+    "distance": 19.3,
+    "coins": 1,
+    "difficulty": "easy"
+  },
+  {
+    "name": "f",
+    "score": 188,
+    "distance": 19.2,
+    "coins": 0,
+    "difficulty": "easy"
+  },
+  {
+    "name": "afsdf",
+    "score": 188,
+    "distance": 19.2,
+    "coins": 0,
+    "difficulty": "easy"
+  }
+]
